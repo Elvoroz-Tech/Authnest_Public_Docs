@@ -69,7 +69,7 @@ More detail: [How it works](docs/HOW_IT_WORKS.md) · [Get started in 10 minutes]
 | | |
 |---|---|
 | ![Client dashboard](docs/screenshots/02-client-dashboard.png)<br/>**Your dashboard.** Users, activity and health at a glance. | ![Login methods](docs/screenshots/04-login-methods.png)<br/>**Choose how people sign in.** Social, passwordless, passkeys. |
-| ![Sign-up form builder](docs/screenshots/03-registration-form-builder.png)<br/>**Design your own sign-up form.** Add the fields you need. | ![Hosted login page](docs/screenshots/05-hosted-login-page.png)<br/>**What your users see.** A clean, ready-made login page. |
+| ![Sign-up form builder](docs/screenshots/03-registration-form-builder.png)<br/>**Design your own sign-up form.** Add the fields you need. | ![Hosted Signup page](docs/screenshots/05-hosted-login-page.png)<br/>**What your users see.** A clean, ready-made signup page. |
 | ![Security settings](docs/screenshots/06-user-security-mfa-passkeys.png)<br/>**Real security controls for users.** Two-step verification and passkeys. | ![Analytics](docs/screenshots/07-analytics.png)<br/>**Know what's happening.** Sign-ups and activity over time. |
 | ![Audit logs](docs/screenshots/08-audit-logs.png)<br/>**A record of activity.** Logs for you and for your users. | ![Multilingual](docs/screenshots/10-multilingual-rtl.png)<br/>**Six languages,** including right-to-left Arabic. |
 | ![Public status page](docs/screenshots/09-status-page.png)<br/>**Nothing hidden.** A public status page. | ![Theme Studio](docs/screenshots/13-theme-studio.png)<br/>**Match your brand** with Theme Studio (top plan). |
