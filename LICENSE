@@ -1,0 +1,59 @@
+ELVOROZ DOCUMENTATION AND MATERIALS LICENSE
+
+Copyright (c) 2026 Elvoroz. All rights reserved.
+
+This repository contains the public documentation, explanations, diagrams,
+screenshots, images and other materials (the "Materials") for AuthNest, a service
+owned and operated by Elvoroz ("Elvoroz"; identified in the Terms of Service at
+https://authnest.org/terms). The Materials are protected by copyright and other laws.
+They are not open source.
+
+WHAT YOU MAY DO
+You may, without asking:
+  (a) read the Materials and view them on GitHub and on authnest.org;
+  (b) link to them;
+  (c) quote short excerpts (a few sentences), with clear credit to
+      "AuthNest by Elvoroz" and a link to the original, for commentary, review,
+      criticism, news or education; and
+  (d) share screenshots of this repository's pages, with the same credit.
+
+WHAT YOU MAY NOT DO
+Without Elvoroz's prior written permission, you may not:
+  (a) copy, republish, mirror, translate, adapt or redistribute the Materials or a
+      substantial part of them, in any medium;
+  (b) present them as your own, or remove or change any notice in them;
+  (c) use them to build, market or document a competing product or service;
+  (d) use them, or any data taken from them, to train or fine-tune machine-learning
+      models, or in automated bulk collection. Elvoroz reserves these rights,
+      including its rights in text and data mining; or
+  (e) use Elvoroz's names, logos or brand assets except as TRADEMARKS.md allows.
+
+NO SOFTWARE LICENSE
+This repository contains no source code. The AuthNest platform and its SDKs
+(@elvoroz/authnest-server, @elvoroz/authnest-react, @elvoroz/authnest-client) are
+proprietary. Use of the SDKs is governed by the SDK License Agreement that ships
+inside each package, and use of the service by the AuthNest Terms of Service. Nothing
+in this repository grants a license to any of them. Any code fragments shown in the
+Materials are illustrations for understanding, and you may use them only to
+integrate your own application with AuthNest.
+
+RESERVATION
+All rights not expressly granted are reserved. No right is granted by implication.
+
+CONTRIBUTIONS
+What you post to this repository (issues, comments, suggestions) is covered by
+CONTRIBUTING.md.
+
+NO WARRANTY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE MATERIALS ARE INFORMATION ONLY AND ARE
+PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. They describe the service at the time
+of writing, and may be out of date. The Terms of Service, Privacy Policy and your
+Plan are what bind Elvoroz and you. ELVOROZ IS NOT LIABLE FOR LOSS ARISING FROM YOUR
+RELIANCE ON THE MATERIALS, TO THE EXTENT THE LAW ALLOWS.
+
+GOVERNING LAW
+This license is governed by the laws of India. The courts at New Delhi, India have
+exclusive jurisdiction, except that Elvoroz may seek urgent relief to protect its
+rights in any competent court.
+
+Permission requests: customer@elvoroz.com

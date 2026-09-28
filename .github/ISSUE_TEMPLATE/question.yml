@@ -1,0 +1,19 @@
+name: Question
+description: Ask how something works or get help getting unstuck
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: Please never paste secrets (API secret keys, passwords, tokens, .env files).
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: Tell us what you are building and where you are stuck. The more context, the better the answer.
+    validations:
+      required: true
+  - type: input
+    id: stack
+    attributes:
+      label: Your stack
+      placeholder: "e.g. React + Express, Next.js, React Native"

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://authnest.org/docs/introduction
+    about: Guides and reference for setting up AuthNest.
+  - name: Contact the team (account or billing)
+    url: https://authnest.org/contact-us
+    about: For anything about your account, billing or a private matter.
+  - name: Service status
+    url: https://authnest.org/status
+    about: Check whether AuthNest is having problems right now.

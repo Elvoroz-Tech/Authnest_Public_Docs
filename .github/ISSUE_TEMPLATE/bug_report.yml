@@ -1,0 +1,48 @@
+name: Bug report
+description: Something in AuthNest or an SDK is not working as it should
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time. **Never paste secrets** (API secret keys, passwords, tokens, .env files).
+        For security problems, please use the private route in SECURITY.md instead of this form.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Go to…\n2. Click…\n3. See the problem"
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where did it happen?
+      options:
+        - Dashboard
+        - Sign-up or login page
+        - User account pages
+        - '@elvoroz/authnest-server'
+        - '@elvoroz/authnest-react'
+        - '@elvoroz/authnest-client'
+        - Documentation
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Browser and version, Node version, SDK version, phone or desktop.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or extra detail
+      description: Please hide personal details before attaching.
